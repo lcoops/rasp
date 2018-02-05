@@ -1,0 +1,5 @@
+可以用来做啥：
+http://shumeipai.nxez.com/what-raspi-used-for
+
+特别的，一个智能家具的例子：
+ttp://shumeipai.nxez.com/2017/09/04/homekit-and-siri-voice-control-home-appliances.html
