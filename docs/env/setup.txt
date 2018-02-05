@@ -1,0 +1,7 @@
+参考：
+https://www.cnblogs.com/mnstar/articles/6625717.html
+
+下载官网：
+https://www.raspberrypi.org/downloads
+
+当前已经有4.9的内核版本，作为学习，当然用最新的
